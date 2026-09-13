@@ -18,7 +18,7 @@ from google.genai import types
 APP_TITLE = "DrillSafe-AI"
 APP_TAGLINE = "HSE & Drilling Safety Assistant"
 DATA_FILE = "HSE_QA.TXT.txt"
-MODEL_NAME = "gemini-2.5-flash"  # fast + cheap, good for Q&A retrieval tasks
+MODEL_NAME = "gemini-3.6-flash"  # fast + cheap, good for Q&A retrieval tasks
 TOP_K_CHUNKS = 4                # how many Q&A entries to feed the model per question
 
 st.set_page_config(page_title=APP_TITLE, page_icon="🦺", layout="centered")
