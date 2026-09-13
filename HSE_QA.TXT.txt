@@ -1,0 +1,35 @@
+Q: What PPE is required on the drill floor?
+A: Hard hat, safety glasses, steel-toe boots, flame-resistant coveralls, gloves, and hearing protection are mandatory at all times on the drill floor. High-visibility vests are required in low-light or high-traffic areas.
+
+Q: What is a JSA and when is it required?
+A: A Job Safety Analysis (JSA) is a documented breakdown of a task into steps, identifying hazards at each step and the controls needed. A JSA is required before starting any non-routine task, any task involving energy isolation, working at height, confined space entry, or hot work.
+
+Q: What are the steps to conduct a JSA?
+A: 1) Break the job into sequential steps. 2) Identify potential hazards at each step. 3) Determine controls to eliminate or reduce each hazard. 4) Review the JSA with all crew members involved. 5) Obtain sign-off from the supervisor before work begins. 6) Stop and revise the JSA if conditions change during the job.
+
+Q: What should a worker do if they detect a gas leak?
+A: 1) Immediately move upwind and away from the source. 2) Sound the alarm or notify the control room. 3) Do not operate any electrical switches or ignition sources near the leak. 4) Evacuate to the designated muster point. 5) Do not re-enter the area until cleared by the HSE officer or gas testing confirms safe levels.
+
+Q: What are the early warning signs of a potential blowout?
+A: Signs include an increase in flow rate out relative to flow in, a drop in pit level not explained by other operations, gas cutting in the mud, a decrease in drilling torque or weight indicator reading unexpectedly, and any unexplained pressure changes.
+
+Q: What is the immediate action if a well is showing signs of a kick?
+A: 1) Stop the pumps and check for flow with the well shut in. 2) If flow is confirmed, shut in the well per the well control procedure. 3) Record shut-in drill pipe pressure (SIDPP) and shut-in casing pressure (SICP). 4) Notify the toolpusher, company man, and HSE supervisor immediately. 5) Initiate the well control procedure and do not resume operations until the situation is assessed.
+
+Q: What is required before entering a confined space?
+A: A valid confined space entry permit, atmospheric testing (oxygen, flammability, toxicity) before and during entry, a designated attendant stationed outside, rescue equipment on standby, and continuous communication between the entrant and attendant.
+
+Q: What is the process for lockout-tagout (LOTO)?
+A: 1) Identify all energy sources for the equipment. 2) Notify affected personnel. 3) Shut down the equipment using normal procedures. 4) Isolate all energy sources. 5) Apply locks and tags to each isolation point. 6) Verify zero energy state by attempting to start the equipment. 7) Perform the work. 8) Remove locks and tags only by the person who applied them, then restore energy.
+
+Q: What should be done in case of a fire on the rig?
+A: 1) Raise the alarm immediately. 2) Attempt to extinguish only if the fire is small and it is safe to do so, using the appropriate extinguisher. 3) If the fire is not immediately controllable, evacuate to the muster point. 4) Account for all personnel at the muster point. 5) Do not re-enter the area until the fire team or HSE officer confirms it is safe.
+
+Q: What are the muster point procedures?
+A: On hearing the emergency alarm, stop work, shut down equipment if safe to do so, and proceed directly to the designated muster point using the nearest safe route. Report to your supervisor for headcount. Remain at the muster point until an all-clear is given.
+
+Q: What is required for working at height?
+A: A permit to work at height, a full body harness with double lanyard, anchor points rated for fall arrest, inspection of all fall protection equipment before use, and a rescue plan in place in case of a fall.
+
+Q: What is the permit to work (PTW) system?
+A: The PTW system is a formal process to control hazardous work. It requires identification of the task, hazards, and controls, authorization by a competent person, and sign-off at completion. No hazardous work should begin without an approved and valid permit displayed at the worksite.
